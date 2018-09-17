@@ -1,0 +1,7 @@
+id=pxss
+name=Pixel Stock Sounds
+version=v1.0
+versionCode=1
+author=Ludwig33
+description=Adds Pixel Stock Sounds files(Alarms, Notifications, Ringtones, UI) to /system/media/audio.
+minMagisk=17000
