@@ -3,5 +3,5 @@ name=Pixel Stock Sounds
 version=v1.0
 versionCode=1
 author=Ludwig33
-description=Adds Pixel Stock Sounds files(Alarms, Notifications, Ringtones, UI) to /system/media/audio.
+description=Adds Pixel XL/2 XL Stock Sounds files(Alarms, Notifications, Ringtones, UI) to /system/media/audio. Based on PPR2.180905.005 build.
 minMagisk=17000
